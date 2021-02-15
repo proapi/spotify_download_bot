@@ -13,3 +13,4 @@ A telegram bot for downlaoding spotify playlist songs on telegram.
   - APP_NAME: name of the app you created on heroku
   - TOKEN: your telegram bot token)
 8. From top right of the page select more options and restart all dynos
+
